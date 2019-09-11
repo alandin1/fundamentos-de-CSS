@@ -1,0 +1,29 @@
+h1 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+h2 {
+    background-color: rgba(100, 160, 150, 0.603)
+}
+
+p {
+    color: forestgreen;
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+}
+p, li {
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+.special {
+    color: orange;
+}
+a {
+    text-decoration: none;
+}
+a:visited {
+    color: navy;
+}
+a:hover {
+    color: gold;
+}
